@@ -3,6 +3,22 @@
 作者：[凝言芝 / Greacekang](https://github.com/Greacekang)
 
 把一张真实照片，变成自然延伸出手绘小故事的画面。保留照片中的主体、环境和光线，沿水线、道路、树枝、云或材质边缘，让真实世界接上温暖的绘本世界。
+## 陈品展示
+<img width="360"  alt="00e8b4dde2fac51e3b7620524c6bd2de" src="https://github.com/user-attachments/assets/db1314e7-a0fc-4414-a202-83fcdb985176" />
+<img width="360"  alt="aa1d207d-5d05-4ea1-abf7-9a3f06811525" src="https://github.com/user-attachments/assets/b11238b9-9bab-41b1-9f67-6f5ff1d60066" />
+<img width="360"  alt="0035f77c28c02102778964075c1f1997" src="https://github.com/user-attachments/assets/1cf69b60-eae2-41f3-ada8-038b883c0790" />
+<img width="360"  alt="4c1564c3-a879-460f-b0f2-bfb716a08493" src="https://github.com/user-attachments/assets/9bd1a0ee-2cd0-4cfb-a5d1-11ced0cd874f" />
+<img width="360"  alt="a3e7dcc00da6d2ce9052c6403352ae1f" src="https://github.com/user-attachments/assets/1d97439d-8c29-403a-a902-215a29f2f568" />
+<img width="360"  alt="efbfafe9-28ed-4ad4-b7d8-37e736e25f72" src="https://github.com/user-attachments/assets/99ef77b0-3b02-4186-81f9-14138f27e3ec" />
+<img width="360"  alt="25868a82012eabf1bda165941858dc74" src="https://github.com/user-attachments/assets/76794c02-1193-44f7-b378-9c041e3082b5" />
+<img width="360"  alt="6ad84efc-aa6d-43e5-8be2-3df820f3d027" src="https://github.com/user-attachments/assets/e47ad0f9-cf35-4666-9c03-296fc83dec4e" />
+<img width="360"  alt="570af762cd50da226820ceecf407f842" src="https://github.com/user-attachments/assets/5cd2fd44-0d14-40a7-83a4-e08aa6c6f95c" />
+<img width="360"  alt="ffef6bed-0c1b-4c46-9600-f5d28c321444" src="https://github.com/user-attachments/assets/7ce9170e-ee1d-49a7-bdd2-cffc4cc6dfa4" />
+<img width="360"  alt="3064357821bda851cc3e2eb100712cdb" src="https://github.com/user-attachments/assets/696b53bd-fce4-44d2-8457-08891a684312" />
+<img width="360"  alt="8bf1b2d4-57d3-4bd5-acf5-ed23d29c1ee9" src="https://github.com/user-attachments/assets/19e4c3dc-9cec-4d5d-a9aa-6347fee8cdfc" />
+
+
+
 
 ## 效果与创作规则
 
